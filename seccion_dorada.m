@@ -1,4 +1,3 @@
-#Encontrar el punto máximo de f(x)=-(x-2)^2+6 entre [0,3]
 #iniciar excepcion con valor mayor a 1
 excepcion=1;
 #tolerancia al gusto del ejercicio o en caso de no tener colocar 0
