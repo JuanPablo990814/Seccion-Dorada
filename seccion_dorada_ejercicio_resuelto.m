@@ -1,4 +1,5 @@
-﻿#variable de condicional
+#Encontrar el punto máximo de f(x)=-(x-2)^2+6 entre [0,3]
+#variable de condicional
 excepcion=1;
 
 #tolerancia en caso de usar el while
